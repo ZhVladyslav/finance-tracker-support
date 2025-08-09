@@ -31,7 +31,7 @@ This is a **community repository** for users of [Finance Tracker](#) who want to
 ## 📄 Changelog
 
 You can view the complete version history here:  
-- [Full Changelog](CHANGELOG.md)
+- [Full Changelog](changelog.md)
 
 ---
 
