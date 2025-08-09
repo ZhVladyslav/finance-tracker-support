@@ -28,6 +28,13 @@ This is a **community repository** for users of [Finance Tracker](#) who want to
 
 ---
 
+## 📄 Changelog
+
+You can view the complete version history here:  
+- [Full Changelog](CHANGELOG.md)
+
+---
+
 ## 🌐 Languages
 
 You may submit your issues and contact us in **Ukrainian** or **English** - whichever is more comfortable for you.
