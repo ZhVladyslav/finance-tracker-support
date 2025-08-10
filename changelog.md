@@ -5,19 +5,19 @@ Click on a version to view detailed changes.
 
 * [\[0.11.0\]](changelog/0.11.0.md) - 2025-08-12 — Added transaction list view, MFA (OTP, PIN, backup), Open Graph tags, fixed expenses calculation and calendar bug, refactored calculation modules.
 
-* [\[0.10.0\]](changelog/0.10.0.md) - 2025-09-28 — Updated operations recalculation, fixed date formatting.
+* [\[0.10.0\]](changelog/0.10.0.md) - 2025-07-28 — Updated operations recalculation, fixed date formatting.
 
-* [\[0.9.3\]](changelog/0.9.3.md) - 2025-09-16 — Fixed operations sorting.
+* [\[0.9.3\]](changelog/0.9.3.md) - 2025-07-16 — Fixed operations sorting.
 
-* [\[0.9.2\]](changelog/0.9.2.md) - 2025-09-16 — Fixed income operation types, timezone bug fixed.
+* [\[0.9.2\]](changelog/0.9.2.md) - 2025-07-16 — Fixed income operation types, timezone bug fixed.
 
-* [\[0.9.1\]](changelog/0.9.1.md) - 2025-09-16 — Added category sorting, fixed SQL update queries.
+* [\[0.9.1\]](changelog/0.9.1.md) - 2025-07-16 — Added category sorting, fixed SQL update queries.
 
-* [\[0.9.0\]](changelog/0.9.0.md) - 2025-09-15 — Refactored services with custom error classes, added firewall, admin middleware and routes, group deletion, secure.txt, improved password hashing, extended session info.
+* [\[0.9.0\]](changelog/0.9.0.md) - 2025-07-15 — Refactored services with custom error classes, added firewall, admin middleware and routes, group deletion, secure.txt, improved password hashing, extended session info.
 
-* [\[0.8.0\]](changelog/0.8.0.md) - 2025-09-10 — Added abstractions over external libraries, categories, and category statistics.
+* [\[0.8.0\]](changelog/0.8.0.md) - 2025-07-10 — Added abstractions over external libraries, categories, and category statistics.
 
-* [\[0.7.0\]](changelog/0.7.0.md) - 2025-09-06 — Added adding users to groups, updated operation stats calculation.
+* [\[0.7.0\]](changelog/0.7.0.md) - 2025-07-09 — Added adding users to groups, updated operation stats calculation.
 
 * [\[0.6.0\]](changelog/0.6.0.md) - 2025-07-06 — Added commission input for transfers.
 
