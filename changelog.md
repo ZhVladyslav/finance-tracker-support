@@ -3,6 +3,8 @@
 All notable changes to this project will be documented here.
 Click on a version to view detailed changes.
 
+* [\[0.13.0\]](changelog/0.13.0.md) - 2025-09-04: Added verify email and user access to group.
+
 * [\[0.12.0\]](changelog/0.12.0.md) - 2025-08-24: Added filters for operations in the all operations view mode and changed FE architecture.
 
 * [\[0.11.0\]](changelog/0.11.0.md) - 2025-08-12: Added transaction list view, MFA (OTP, PIN, backup), Open Graph tags, fixed expenses calculation and calendar bug, refactored calculation modules.
