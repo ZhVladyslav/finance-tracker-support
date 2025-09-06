@@ -3,6 +3,8 @@
 All notable changes to this project will be documented here.
 Click on a version to view detailed changes.
 
+* [\[0.13.2\]](changelog/0.13.2.md) - 2025-09-06: Fixed share group, refactored API types.
+
 * [\[0.13.1\]](changelog/0.13.1.md) - 2025-09-06: Fixed calc operations, return to last active date in calendar.
 
 * [\[0.13.0\]](changelog/0.13.0.md) - 2025-09-04: Added verify email and user access to group.
