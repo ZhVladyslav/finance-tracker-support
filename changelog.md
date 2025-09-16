@@ -3,6 +3,10 @@
 All notable changes to this project will be documented here.
 Click on a version to view detailed changes.
 
+* [\[0.14.1\]](changelog/0.14.1.md) - 2025-09-17: Added saving user language settings, changed client language logic.
+
+* [\[0.14.0\]](changelog/0.14.0.md) - 2025-09-15: Added first group, onboarding, reset password.
+
 * [\[0.13.2\]](changelog/0.13.2.md) - 2025-09-06: Fixed share group, refactored API types.
 
 * [\[0.13.1\]](changelog/0.13.1.md) - 2025-09-06: Fixed calc operations, return to last active date in calendar.
