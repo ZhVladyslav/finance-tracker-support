@@ -3,6 +3,12 @@
 All notable changes to this project will be documented here.
 Click on a version to view detailed changes.
 
+* [[0.15.2]](changelog/0.15.2.md) - 2025-11-05: Updated operations list UI, fixed email confirmation.
+
+* [[0.15.1]](changelog/0.15.1.md) - 2025-10-18: Updated group and session settings tables.
+
+* [[0.15.0]](changelog/0.15.0.md) - 2025-10-15: Updated dashboard table, modified OTP & PIN code logic, removed backup codes, updated email confirmation and password recovery.
+
 * [\[0.14.1\]](changelog/0.14.1.md) - 2025-09-17: Added saving user language settings, changed client language logic.
 
 * [\[0.14.0\]](changelog/0.14.0.md) - 2025-09-15: Added first group, onboarding, reset password.
