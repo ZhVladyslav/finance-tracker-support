@@ -3,6 +3,8 @@
 All notable changes to this project will be documented here.
 Click on a version to view detailed changes.
 
+* [[0.16.0]](changelog/0.16.0.md) - 2025-11-15: Added ability to retrieve receipt data via QR code, added ability to retrieve receipt data using receipt details.
+
 * [[0.15.2]](changelog/0.15.2.md) - 2025-11-05: Updated operations list UI, fixed email confirmation.
 
 * [[0.15.1]](changelog/0.15.1.md) - 2025-10-18: Updated group and session settings tables.
