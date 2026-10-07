@@ -3,6 +3,8 @@
 All notable changes to this project will be documented here.
 Click on a version to view detailed changes.
 
+* [\[1.0.0\]](changelog/1.0.0.md) - 2026-10-08: Major release — rebuilt app (web, Android). Deals, planned transactions, chat, notifications, offline mode, data import, Apple Pay, sign-in by email code and QR, two-factor authentication, data export; new design and bug fixes.
+
 * [[0.16.0]](changelog/0.16.0.md) - 2025-11-15: Added ability to retrieve receipt data via QR code, added ability to retrieve receipt data using receipt details.
 
 * [[0.15.2]](changelog/0.15.2.md) - 2025-11-05: Updated operations list UI, fixed email confirmation.
