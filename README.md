@@ -6,7 +6,7 @@
 
 ## 📌 About this repository
 
-This is a **community repository** for users of [Finance Tracker](#) who want to:
+This is a **community repository** for users of [Finance Tracker](https://orizond.com/) who want to:
 
 - report a bug 🐞  
 - suggest a new feature 💡  
@@ -43,8 +43,8 @@ You may submit your issues and contact us in **Ukrainian** or **English** - whic
 
 ## 📣 Stay in touch
 
-- App: [finance-tracker](https://finance-tracker-front-end-zhvladyslavs-projects.vercel.app/)
-- Support email: [fin.tracker.25@gmail.com](mailto:fin.tracker.25@gmail.com)
+- App: [orizond.com](https://orizond.com/)
+- Support email: [support@orizond.com](mailto:support@orizond.com)
 
 ---
 
